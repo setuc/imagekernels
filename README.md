@@ -4,4 +4,6 @@ This is an extension of the excel spreadsheet used in the fast.ai course. This s
 I added the following features into the original spreadsheet:
 * Visualization of the Image Kernels
 * Visualization of the calculations involved in a Convolution Neural Network.
-* Added the MNIST Dataset for the visualization. 
+* Added the MNIST Dataset for the visualization.
+
+![Demo] (https://github.com/setuc/imagekernels/raw/master/CNNs%20and%20Image%20Kernels.gif)
